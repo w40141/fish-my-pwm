@@ -1,5 +1,5 @@
 # Fish completions for My-pwm
-Passward generator
+[My-pwm](https://github.com/w40141/my-pwm) is Passward generator
 
 ### How to Use
 
